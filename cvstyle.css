@@ -33,6 +33,10 @@ body{
   margin: 50px auto;
 }
 
+.text{
+  margin-top: 5px;
+}
+
 .resume .resume-left {
   width: 280px;
   background: #0bb5f4;
@@ -189,12 +193,12 @@ body{
 .resume .resume-right .resume-education ul li:before{
   content: "";
   position: absolute;
-  top: 5px;
-  left: -25px;
-  width: 6px;
-  height: 6px;
+  top: 0px;
+  left: -26px;
+  width: 8px;
+  height: 8px;
   border-radius: 50%;
-  border: 2px solid #0bb5f4;
+  border: 3px solid #0bb5f4;
 }
 
 .resume .resume-right .resume-work ul li:after,
