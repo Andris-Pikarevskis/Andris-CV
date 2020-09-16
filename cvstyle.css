@@ -40,6 +40,10 @@ body{
   color: #fff;
 }
 
+a {
+text-decoration: none;
+}
+
 button {
   border-style: none;
   width: 60px;
